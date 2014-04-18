@@ -1,6 +1,5 @@
 /* 
  * Alan Wright
- * Group: Username Invalid
  * 4/15/14
  *
  * This program finds if an intersection between a line segment and circle exists.

@@ -1,6 +1,5 @@
 /* 
  * Alan Wright
- * Group: Username Invalid
  * 4/15/14
  *
  * This program finds the longest palindrome (a string the same backwards and fowards) in a character sequence.

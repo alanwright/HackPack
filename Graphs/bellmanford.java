@@ -1,6 +1,5 @@
 /*
  * Alan Wright
- * Username Invalid
  * 4/11/2014
  * 
  * Program finds shortest path between a start node and all other nodes as well as

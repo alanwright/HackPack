@@ -1,6 +1,5 @@
 /*
  * Alan Wright
- * Group: Username Invalid
  * Date: 4/9/2013
  * 
  * Creates a graph with 7 nodes then performs both a regular and optimized Dijkstra's

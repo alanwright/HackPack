@@ -1,6 +1,5 @@
 /* 
  * Alan Wright
- * Group: Username Invalid
  * 4/15/14
  *
  * This program finds the longest common subsequence between two sequences. It uses a Dynammic Programming solution that builds

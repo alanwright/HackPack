@@ -1,6 +1,5 @@
 /*
  * Alan Wright
- * Group: Username Invalid
  * Date: 4/8/2013
  * 
  * Creates a graph with 2 components and 7 nodes. Then performs both a

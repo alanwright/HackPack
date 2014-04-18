@@ -1,6 +1,5 @@
 /*
  * Alan Wright
- * Group: Username Invalid
  * Date: 4/9/2013
  * 
  * Contains functions for Greatest Common Divisor and Least Common Multiple. 

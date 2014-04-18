@@ -1,6 +1,5 @@
 /*
  * Alan Wright
- * Group: Username Invalid
  * Date: 4/12/2013
  * 
  * Finds the minimum number of coins need to make change using the US coin system.

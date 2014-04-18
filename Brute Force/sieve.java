@@ -1,6 +1,5 @@
 /*
  * Alan Wright
- * Group: Username Invalid
  * Date: 4/9/2013
  * 
  * Contains function for calculating primes using Sieve of Eratosthenes

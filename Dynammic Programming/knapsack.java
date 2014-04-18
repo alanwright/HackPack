@@ -1,6 +1,5 @@
 /* 
  * Alan Wright
- * Group: Username Invalid
  * 4/16/14
  *
  * This program finds the global maximum value that a knapsack with a specified weight threshold can 
